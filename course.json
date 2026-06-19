@@ -1,0 +1,15 @@
+{
+  "schedule": "schedule/schedule.md",
+  "syllabus": "instruction/syllabus/syllabus.md",
+  "modules": [
+    {
+      "title": "Course info",
+      "topics": [
+        {
+          "title": "Home",
+          "path": "README.md"
+        }
+      ]
+    }
+  ]
+}
